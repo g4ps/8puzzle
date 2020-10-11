@@ -1,0 +1,8 @@
+It's a program for creating and solving 8-puzzles. It's working and (probably) not breaking.
+All neccesary options are in -h option. make to compile. I did it for the purpose of entartaining myself,
+and it sufficed its purpose.
+
+This program is at this point finished, I did everything, that i wanted to do. Now it contains A-star
+search for 8-puzzle, BFS - search and lots of fucntions for support.
+
+awk script is for extracting puzzles from program, you probably can do it more efficently, but I don't give a fuck.
